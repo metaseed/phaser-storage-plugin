@@ -1,0 +1,20 @@
+{
+  "name": "phaser-storage-plugin",
+  "version": "1.0.0",
+  "description": "phaser storage plugin",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/metaseed/"
+  },
+  "keywords": [
+    "phaser",
+    "storage",
+    "plugin"
+  ],
+  "author": "metaseed",
+  "license": "MIT"
+}
